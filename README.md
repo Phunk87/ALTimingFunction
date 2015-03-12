@@ -10,11 +10,11 @@ pod 'ALTimingFunction'
 
 ## Supported Timing Function
 
-- [X] Circ Easing
+- [x] Circ Easing
 - [x] Cubic Easing
-- [x]Expo Easing
-- [x]Quad Easing
-- [x]Quart Easing
-- [x]Quint Easing
-- [x]Sine Easing
-- [x]Back Easing
+- [x] Expo Easing
+- [x] Quad Easing
+- [x] Quart Easing
+- [x] Quint Easing
+- [x] Sine Easing
+- [x] Back Easing
